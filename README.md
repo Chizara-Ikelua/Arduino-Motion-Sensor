@@ -376,7 +376,7 @@ if __name__ == '__main__':
 ```
 
 
-![PYTHON_DASH](.\img_assets\operation.png "PYTHON_DASH") <br>
+![PYTHON_DASH](./img_assets/operation.png/ "PYTHON_DASH") <br>
 *Left> Python printing the logs from the light sensor to the console. Right> Real-time charting of Redis DB where logs are sent.*
 <br>
 
