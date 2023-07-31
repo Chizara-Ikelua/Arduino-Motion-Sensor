@@ -375,6 +375,8 @@ if __name__ == '__main__':
 
 ```
 
+![image](https://github.com/Chizara-Ikelua/Arduino-Motion-sensor/assets/136619792/20a71b60-1a42-43b3-8c15-a52a4b1218ef)
+
 
 ![PYTHON_DASH](./img_assets/operation.png/ "PYTHON_DASH") <br>
 *Left> Python printing the logs from the light sensor to the console. Right> Real-time charting of Redis DB where logs are sent.*
